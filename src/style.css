@@ -1,1 +1,25 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: white;
+  font-family: "Arial", sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  max-width: 600px;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #000000;
+  font-weight: bold;
+}
+
+.excusa {
+  font-size: 1.5rem;
+  color: #000000;
+  font-weight: bold;
+}
